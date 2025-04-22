@@ -4,174 +4,199 @@
     "title": "Introduction to Computer Science",
     "university": "Harvard University",
     "category": "Computer Science",
-    "duration": "12 weeks"
+    "duration": "12 weeks",
+    "recommendationLevel": "Highly Recommended"
   },
   {
     "id": 2,
     "title": "Calculus I",
     "university": "MIT",
     "category": "Mathematics",
-    "duration": "14 weeks"
+    "duration": "14 weeks",
+    "recommendationLevel": "Highly Recommended"
   },
   {
     "id": 3,
     "title": "Data Structures and Algorithms",
     "university": "Stanford University",
     "category": "Computer Science",
-    "duration": "12 weeks"
+    "duration": "12 weeks",
+    "recommendationLevel": "Highly Recommended"
   },
   {
     "id": 4,
     "title": "Organic Chemistry",
     "university": "University of California, Berkeley",
     "category": "Chemistry",
-    "duration": "15 weeks"
+    "duration": "15 weeks",
+    "recommendationLevel": "Recommended"
   },
   {
     "id": 5,
     "title": "Introduction to Psychology",
     "university": "Yale University",
     "category": "Psychology",
-    "duration": "10 weeks"
+    "duration": "10 weeks",
+    "recommendationLevel": "Recommended"
   },
   {
     "id": 6,
     "title": "World History",
     "university": "University of Oxford",
     "category": "History",
-    "duration": "12 weeks"
+    "duration": "12 weeks",
+    "recommendationLevel": "Optional"
   },
   {
     "id": 7,
     "title": "Philosophy of Science",
     "university": "Princeton University",
     "category": "Philosophy",
-    "duration": "12 weeks"
+    "duration": "12 weeks",
+    "recommendationLevel": "Optional"
   },
   {
     "id": 8,
     "title": "Modern Art",
     "university": "University of London",
     "category": "Art",
-    "duration": "8 weeks"
+    "duration": "8 weeks",
+    "recommendationLevel": "Optional"
   },
   {
     "id": 9,
     "title": "Introduction to Sociology",
     "university": "Columbia University",
     "category": "Sociology",
-    "duration": "10 weeks"
+    "duration": "10 weeks",
+    "recommendationLevel": "Optional"
   },
   {
     "id": 10,
     "title": "Economics 101",
     "university": "University of Chicago",
     "category": "Economics",
-    "duration": "12 weeks"
+    "duration": "12 weeks",
+    "recommendationLevel": "Recommended"
   },
   {
     "id": 11,
     "title": "Machine Learning",
     "university": "Carnegie Mellon University",
     "category": "Computer Science",
-    "duration": "14 weeks"
+    "duration": "14 weeks",
+    "recommendationLevel": "Highly Recommended"
   },
   {
     "id": 12,
     "title": "Artificial Intelligence",
     "university": "MIT",
     "category": "Computer Science",
-    "duration": "16 weeks"
+    "duration": "16 weeks",
+    "recommendationLevel": "Highly Recommended"
   },
   {
     "id": 13,
     "title": "Bioethics",
     "university": "Harvard University",
     "category": "Ethics",
-    "duration": "10 weeks"
+    "duration": "10 weeks",
+    "recommendationLevel": "Optional"
   },
   {
     "id": 14,
     "title": "Political Science",
     "university": "University of Cambridge",
     "category": "Political Science",
-    "duration": "12 weeks"
+    "duration": "12 weeks",
+    "recommendationLevel": "Optional"
   },
   {
     "id": 15,
     "title": "Intro to Digital Marketing",
     "university": "University of California, Berkeley",
     "category": "Business",
-    "duration": "8 weeks"
+    "duration": "8 weeks",
+    "recommendationLevel": "Recommended"
   },
   {
     "id": 16,
     "title": "Advanced JavaScript",
     "university": "University of Toronto",
     "category": "Computer Science",
-    "duration": "10 weeks"
+    "duration": "10 weeks",
+    "recommendationLevel": "Highly Recommended"
   },
   {
     "id": 17,
     "title": "Human Anatomy",
     "university": "Johns Hopkins University",
     "category": "Medicine",
-    "duration": "14 weeks"
+    "duration": "14 weeks",
+    "recommendationLevel": "Recommended"
   },
   {
     "id": 18,
     "title": "Introduction to Economics",
     "university": "Harvard University",
     "category": "Economics",
-    "duration": "10 weeks"
+    "duration": "10 weeks",
+    "recommendationLevel": "Recommended"
   },
   {
     "id": 19,
     "title": "Environmental Science",
     "university": "University of California, Berkeley",
     "category": "Science",
-    "duration": "12 weeks"
+    "duration": "12 weeks",
+    "recommendationLevel": "Recommended"
   },
   {
     "id": 20,
     "title": "Introduction to Cloud Computing",
     "university": "University of Washington",
     "category": "Computer Science",
-    "duration": "12 weeks"
+    "duration": "12 weeks",
+    "recommendationLevel": "Highly Recommended"
   },
   {
     "id": 21,
     "title": "Financial Accounting",
     "university": "University of Michigan",
     "category": "Business",
-    "duration": "14 weeks"
+    "duration": "14 weeks",
+    "recommendationLevel": "Recommended"
   },
   {
     "id": 22,
     "title": "Advanced Organic Chemistry",
     "university": "University of California, Los Angeles",
     "category": "Chemistry",
-    "duration": "15 weeks"
+    "duration": "15 weeks",
+    "recommendationLevel": "Recommended"
   },
   {
     "id": 23,
     "title": "Introduction to Data Science",
     "university": "Georgia Institute of Technology",
     "category": "Computer Science",
-    "duration": "12 weeks"
+    "duration": "12 weeks",
+    "recommendationLevel": "Highly Recommended"
   },
   {
     "id": 24,
     "title": "Introduction to Law",
     "university": "University of Chicago",
     "category": "Law",
-    "duration": "12 weeks"
+    "duration": "12 weeks",
+    "recommendationLevel": "Recommended"
   },
   {
     "id": 25,
     "title": "Introduction to Artificial Intelligence",
     "university": "Stanford University",
     "category": "Computer Science",
-    "duration": "12 weeks"
+    "duration": "12 weeks",
+    "recommendationLevel": "Highly Recommended"
   }
 ]
